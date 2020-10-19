@@ -7,6 +7,6 @@ Feature: Count Products
         Given Open browser and go to tiki homepage
 
     Scenario: Count
-        When I search anything such as: ''
+        When I search any products I want
         Then I want to know how many products will be displayed in the first page
 
